@@ -15,7 +15,7 @@ const data = [
 		]
 	},
 	{
-		name: 'Consultans',
+		name: 'Consultants',
 		rows: [
 			[1, 'Business Broker', 'Carla_Buckley2938@nanoff.biz', 'Carla Buckley', 15000],
 			[2, 'Stockbroker', 'Denny_Ryan5741@womeona.net', 'Denny Ryan', 200000],

@@ -14,7 +14,7 @@ Personel
   4    Biologist                           Carrie_Leigh709@naiker.biz                      Carrie Leigh    195900
   5    Chef Manager                        Mark_Gordon7994@eirey.tech                       Mark Gordon    181000
 
-Consultans
+Consultants
  ID    Job Title                           Email                                                   Name    Salary
   1    Business Broker                     Carla_Buckley2938@nanoff.biz                   Carla Buckley     15000
   2    Stockbroker                         Denny_Ryan5741@womeona.net                        Denny Ryan    200000
