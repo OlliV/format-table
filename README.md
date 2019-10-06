@@ -1,5 +1,5 @@
-format-table
-============
+format-table-pro
+================
 
 Format tables like a pro.
 
